@@ -8,9 +8,8 @@ This project involves building and training a ResNet-50 model to classify flower
 ## Project Structure
 
 ```
-flower_classification/
-├── data/                  # Directory to store dataset
-│   └── flowers_data/      # Image data directory (train and val folders)
+
+├── flowers_data/          # Image data directory (train ,test and val folders)
 ├── main.py                # Initial comprehensive training script
 ├── light.py               # Optimized training script
 ├── requirements.txt       # Required Python packages
